@@ -1,0 +1,28 @@
+name: Online Marketing NYC
+favicon: null
+layout_spectrum: 0.6408468810841441
+typography_spectrum: 0.22898947657085955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.48823658959008753
+  lightness: 0.590664251241833
+  saturation: 0.12864326522685587
+  rhythmicContrast: 0.6497776233591139
+purpose: []
