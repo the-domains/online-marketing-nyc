@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T19:55:07.691Z'
-dateModified: '2016-01-25T19:55:02.849Z'
+datePublished: '2016-01-25T19:56:41.091Z'
+dateModified: '2016-01-25T19:55:13.134Z'
 title: "Online Marketing in New York:\nIs Your Current Local Digital Strategy Obsolete? "
 author: []
 sourcePath: _posts/2016-01-25-we-have-to-look-at-the-quote-offered-by-ian-schafer-if-we-wa.md
