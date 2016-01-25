@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T19:55:07.636Z'
+datePublished: '2016-01-25T19:55:07.691Z'
 dateModified: '2016-01-25T19:55:02.849Z'
 title: "Online Marketing in New York:\nIs Your Current Local Digital Strategy Obsolete? "
 author: []
